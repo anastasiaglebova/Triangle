@@ -1,0 +1,16 @@
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\bin\Debug\Prac1_MDK0402.exe.config
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\bin\Debug\Prac1_MDK0402.exe
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\bin\Debug\Prac1_MDK0402.pdb
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.csproj.AssemblyReference.cache
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.csproj.SuggestedBindingRedirects.cache
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.csproj.CoreCompileInputs.cache
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.exe
+D:\Колледж\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.pdb
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\bin\Debug\Prac1_MDK0402.exe.config
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\bin\Debug\Prac1_MDK0402.exe
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\bin\Debug\Prac1_MDK0402.pdb
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.csproj.AssemblyReference.cache
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.csproj.SuggestedBindingRedirects.cache
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.csproj.CoreCompileInputs.cache
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.exe
+D:\Колледж\МДК.04.02 Обеспечение качества функционирования компьютерных систем\practica\Prac1_MDK0402\Prac1_MDK0402\obj\Debug\Prac1_MDK0402.pdb
